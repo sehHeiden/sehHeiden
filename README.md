@@ -12,7 +12,7 @@ I'm a passionate **Geospatial Data Scientist** with a diverse interdisciplinary 
 🔬 **Master's Thesis**: *"Validation of Photovoltaic Data in the German Core Energy Market Register via Aerial Image Segmentation"*  
 🛠️ Combining **Deep Learning**, **Geospatial Analysis**, and **Renewable Energy** research  
 📊 5+ years as **Data Scientist** at Delphi IMM GmbH, specializing in geospatial analytics  
-🎤 **Community Involvement**: Presented at Elixir Berlin Meetup on functional programming
+🎤 **Community Involvement**: [Presented at Elixir Berlin Meetup](https://genserver.social/notice/AegIIHFEtWteSbvbG4) on Bavarian Election sentiment analysis
 
 ---
 
@@ -125,7 +125,7 @@ Photovoltaic data validation using aerial image segmentation
 
 - **🏆 M.Sc. Data Science** - Current Grade: **1.3** (≈ A- US scale)
 - **🏅 Programming Competition** - 3rd place at 14th Holtek Semiconductor competition (Taiwan)
-- **🎤 Community Engagement** - Presented at Elixir Berlin Meetup on functional programming
+- **🎤 Community Engagement** - [Presented at Elixir Berlin Meetup](https://genserver.social/notice/AegIIHFEtWteSbvbG4) on Bavarian Election sentiment analysis
 - **📚 Research Publications** - Contributing to renewable energy and geospatial analysis research
 - **🌏 International Experience** - Exchange semester in Taiwan, Chinese language skills (HSK 3)
 
