@@ -113,9 +113,9 @@ Photovoltaic data validation using aerial image segmentation
 
 <div align="center">
 
-![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehHeiden&show_icons=true&theme=default&hide_border=true)
+![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehHeiden&show_icons=true&theme=default&hide_border=true&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehHeiden&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehHeiden&layout=compact&theme=default&hide_border=true&exclude_repo=FunctionalProgramminginPython,DataMining&langs_count=8&hide=jupyter%20notebook,html,css,javascript)
 
 </div>
 
