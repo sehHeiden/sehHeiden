@@ -11,7 +11,8 @@ I'm a passionate **Geospatial Data Scientist** with a diverse interdisciplinary 
 
 🔬 **Master's Thesis**: *"Validation of Photovoltaic Data in the German Core Energy Market Register via Aerial Image Segmentation"*  
 🛠️ Combining **Deep Learning**, **Geospatial Analysis**, and **Renewable Energy** research  
-📊 5+ years as **Data Scientist** at Delphi IMM GmbH, specializing in geospatial analytics
+📊 5+ years as **Data Scientist** at Delphi IMM GmbH, specializing in geospatial analytics  
+🎤 **Community Involvement**: Presented at Elixir Berlin Meetup on functional programming
 
 ---
 
@@ -34,14 +35,16 @@ I'm a passionate **Geospatial Data Scientist** with a diverse interdisciplinary 
 
 ### **🐍 Core Technologies**
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-Spatial%20Analytics-FFF000?logo=duckdb&logoColor=black)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Advanced-FF6F00?logo=tensorflow&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-Advanced-139C5A?logo=pandas&logoColor=white)
 ![GIS](https://img.shields.io/badge/GIS-Advanced-2F8B2F?logo=qgis&logoColor=white)
 
 ### **🗺️ Geospatial & Data Science**
 - **Geospatial Analysis**: QGIS, PostGIS, GeoPandas, Rasterio
+- **Spatial Databases**: **DuckDB** (spatial extension), SQLite/SpatiaLite
 - **Machine Learning**: scikit-learn, PyTorch, Computer Vision
-- **Data Processing**: Pandas, NumPy, SQL, Docker
+- **Data Processing**: Pandas, NumPy, Dask, Apache Sedona
 - **Remote Sensing**: Satellite imagery analysis, orthophoto processing
 
 ### **🔧 Development & Tools**
@@ -55,15 +58,35 @@ I'm a passionate **Geospatial Data Scientist** with a diverse interdisciplinary 
 
 ## 🚀 Featured Projects
 
-### 🎞️ [**Transcode Toolkit**](https://github.com/sehHeiden/transcode_toolkit)
-[![Python](https://img.shields.io/badge/Python-3.12+-blue)](https://python.org)
-[![CI/CD](https://github.com/sehHeiden/transcode_toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/sehHeiden/transcode_toolkit/actions)
-[![codecov](https://codecov.io/gh/sehHeiden/transcode_toolkit/branch/main/graph/badge.svg)](https://codecov.io/gh/sehHeiden/transcode_toolkit)
+### 🗺️ [**GeoSpeed Benchmarking**](https://github.com/sehHeiden/geospeed)
+[![Python](https://img.shields.io/badge/Python-GIS-blue)](https://python.org)
+[![DuckDB](https://img.shields.io/badge/DuckDB-Spatial-FFF000?logo=duckdb&logoColor=black)](https://duckdb.org)
+[![GeoPandas](https://img.shields.io/badge/GeoPandas-Advanced-139C5A)](https://geopandas.org)
 
-Unified toolkit for video/audio transcoding with GPU acceleration
-- **Tech Stack**: Python, FFmpeg, uv, ruff, pytest
-- **Features**: H.265/AV1 video encoding, Opus audio encoding, SNR-based quality analysis
-- **Architecture**: Modern src-layout, comprehensive CLI, modular design
+Comprehensive performance analysis of modern GIS frameworks and spatial databases
+- **Tech Stack**: GeoPandas, **DuckDB**, Dask, Apache Sedona, ALKIS data
+- **Features**: Multi-core spatial operations, memory optimization, 3.6M polygon analysis
+- **Research**: Detailed benchmarking of overlay operations across different GIS technologies
+
+### ☀️ [**SunshineDuration Calculator**](https://github.com/sehHeiden/sunshine_duration)
+[![Python](https://img.shields.io/badge/Python-Scientific-blue)](https://python.org)
+[![Xarray](https://img.shields.io/badge/Xarray-Geospatial-lightblue)](https://xarray.pydata.org)
+[![Solar](https://img.shields.io/badge/Solar-Energy%20Analysis-yellow)]()
+
+Python library for computing clear sky sunshine duration from digital elevation models
+- **Tech Stack**: Xarray, NumPy, DEM processing, solar radiation modeling
+- **Features**: Shadow calculation algorithms, solar azimuth/elevation analysis
+- **Applications**: Renewable energy assessment
+
+### 📊 [**Bavarian Election Sentiment Analysis**](https://github.com/sehHeiden/poll_election_bavaria_2023)
+[![Python](https://img.shields.io/badge/Python-Data%20Science-blue)](https://python.org)
+[![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-orange)]()
+[![Geospatial](https://img.shields.io/badge/Geospatial-Regional%20Analysis-green)]()
+
+Social media sentiment analysis of the 2023 Bavarian state election
+- **Tech Stack**: Python, NLP, Mastodon API, regional differentiation
+- **Features**: Sentiment tracking, geospatial correlation, political data analysis
+- **Research**: Combines social media mining with regional geospatial analysis
 
 ### 🌐 [**Hugo Blog**](https://github.com/sehHeiden/sehHeiden.github.io)
 [![Deploy Hugo site to GitHub Pages](https://github.com/sehHeiden/sehHeiden.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/sehHeiden/sehHeiden.github.io/actions/workflows/deploy.yml)
@@ -102,6 +125,7 @@ Photovoltaic data validation using aerial image segmentation
 
 - **🏆 M.Sc. Data Science** - Current Grade: **1.3** (≈ A- US scale)
 - **🏅 Programming Competition** - 3rd place at 14th Holtek Semiconductor competition (Taiwan)
+- **🎤 Community Engagement** - Presented at Elixir Berlin Meetup on functional programming
 - **📚 Research Publications** - Contributing to renewable energy and geospatial analysis research
 - **🌏 International Experience** - Exchange semester in Taiwan, Chinese language skills (HSK 3)
 
