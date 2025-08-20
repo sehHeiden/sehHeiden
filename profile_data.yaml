@@ -1,0 +1,135 @@
+---
+# Sebastian Heiden - Professional Profile Data
+# Generated for GitHub profile enhancement
+
+personal_info:
+  name: "Sebastian Heiden"
+  title: "Geospatial Data Scientist"
+  email: "heiden-sebastian@t-online.de"
+  location: "Potsdam, Germany"
+  github: "https://github.com/sehHeiden"
+  linkedin: "https://www.linkedin.com/in/sebastian-heiden-603990151/"
+  website: "https://sehheiden.github.io"
+
+current_focus:
+  - thesis_title: "Validation of Photovoltaic Data in the German Core Energy Market Register via Aerial Image Segmentation"
+  - current_grade: "1.3 (≈ A- US scale)"
+  - research_areas: ["Deep Learning", "Geospatial Analysis", "Renewable Energy"]
+  - current_position: "Data Scientist at Delphi IMM GmbH (2020-2025)"
+
+education:
+  - degree: "M.Sc. Data Science"
+    institution: "Harz University of Applied Sciences"
+    years: "2022-present"
+    status: "ongoing"
+    grade: "1.3"
+    
+  - degree: "B.Sc. Computer Science"
+    institution: "Ostbayerische Technische Hochschule Regensburg"
+    years: "2016-2019"
+    grade: "2.1"
+    specialization: "Deep Learning, Data Mining, Computer Vision"
+    
+  - degree: "Diploma in Chemistry"
+    institution: "Humboldt Universität zu Berlin"
+    years: "2007-2012"
+    grade: "2.3"
+    
+  - exchange: "Chaoyang University of Technology, Taiwan"
+    years: "2019-2020"
+    focus: "Data Mining, Chinese Language"
+
+professional_experience:
+  - position: "Data Scientist"
+    company: "Delphi IMM GmbH"
+    years: "2020-2025"
+    responsibilities: "Geoinformation Systems, ML with satellite data, solar/heat registers"
+    
+  - position: "AI Research Assistant"
+    company: "Dallmeier Electronic GmbH"
+    years: "2018-2019"
+    responsibilities: "Neural Network optimization, Mixed Precision research"
+    
+  - position: "Research Assistant"
+    company: "Technical University Dresden"
+    years: "2013-2016"
+    responsibilities: "Electrochemical characterization, surface analysis"
+
+technical_skills:
+  programming_languages:
+    - name: "Python"
+      level: "Advanced"
+      frameworks: ["GeoPandas", "PyTorch", "scikit-learn", "Pandas", "NumPy"]
+    - name: "C/C++"
+      level: "Intermediate"
+    - name: "Linux/Bash"
+      level: "Intermediate"
+
+  geospatial_tools:
+    - "QGIS"
+    - "PostGIS"
+    - "GeoPandas"
+    - "Rasterio"
+    - "Remote Sensing"
+    - "Satellite Imagery Analysis"
+
+  development_tools:
+    - "uv (Package Management)"
+    - "ruff (Code Formatting)"
+    - "pytest (Testing)"
+    - "mypy (Type Checking)"
+    - "GitHub Actions"
+    - "Docker"
+    - "Git"
+
+  documentation:
+    - "LaTeX"
+    - "Markdown"
+    - "Hugo"
+
+  languages:
+    - language: "German"
+      level: "Native"
+    - language: "English"
+      level: "Very good command"
+    - language: "Chinese"
+      level: "Intermediate (HSK 3)"
+
+featured_projects:
+  - name: "Transcode Toolkit"
+    github: "https://github.com/sehHeiden/transcode_toolkit"
+    description: "Unified toolkit for video/audio transcoding with GPU acceleration"
+    tech_stack: ["Python", "FFmpeg", "uv", "ruff", "pytest"]
+    features: ["H.265/AV1 encoding", "SNR-based analysis", "Modern CLI"]
+    
+  - name: "Master's Thesis Research"
+    github: "https://github.com/sehHeiden/ds_thesis"
+    description: "Photovoltaic data validation using aerial image segmentation"
+    tech_stack: ["PyTorch", "GeoPandas", "uv", "ruff"]
+    data_sources: ["German MaStR", "Brandenburg orthophotos"]
+    
+  - name: "Hugo Blog"
+    github: "https://github.com/sehHeiden/sehHeiden.github.io"
+    live_site: "https://sehheiden.github.io"
+    description: "Technical blog with automated CI/CD deployment"
+    tech_stack: ["Hugo", "GitHub Actions"]
+
+achievements:
+  - "3rd place at 14th Holtek Semiconductor programming competition (Taiwan)"
+  - "Current M.Sc. grade: 1.3 (≈ A- US scale)"
+  - "5+ years professional experience in geospatial data science"
+  - "International academic experience (Taiwan exchange)"
+  - "Interdisciplinary background bridging chemistry, computer science, and data science"
+
+interests:
+  - "Chinese Language/Culture"
+  - "Taekwon-Do"
+  - "Singing"
+  - "Open Source Contributions"
+  - "Technical Writing"
+
+current_learning:
+  - "Advanced computer vision for satellite imagery"
+  - "Contributing to open-source geospatial tools"
+  - "Completing M.Sc. thesis research"
+  - "Building technical blog content"
